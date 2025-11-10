@@ -52,16 +52,17 @@ Built using **Python** and **Discord.py**, DRSBot integrates with the **Jolpica 
    ```bash
    git clone https://github.com/yourusername/drsbot.git
    cd drsbot
+   ```
 2. **Install dependencies**
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. **Configure environment variables**
-  ```bash
-  DISCORD_TOKEN=your_discord_bot_token
-  JOLPICA_API=https://api.jolpi.ca/f1/
-  ```
+   ```bash
+   DISCORD_TOKEN=your_discord_bot_token
+   JOLPICA_API=https://api.jolpi.ca/f1/
+   ```
 4. **Run the bot**
-  ```bash
-  python bot.py
-```
+   ```bash
+   python bot.py
+   ```

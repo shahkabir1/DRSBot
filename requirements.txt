@@ -1,0 +1,7 @@
+flask
+discord.py
+aiohttp
+apscheduler
+pytz
+python-dotenv
+python-dateutil

@@ -21,13 +21,19 @@ Built using **Python** and **Discord.py**, DRSBot integrates with the **Jolpica 
 
 | Command | Description |
 |----------|-------------|
-| `!standings` | Displays current driver standings |
-| `!constructors` | Displays constructor standings |
-| `!schedule` | Shows the upcoming race weekend schedule |
-| `!schedule <year>` | Shows the schedule for a specific year |
-| `!race <round>` | Shows detailed info for a specific race |
-| `!help` | Lists all available commands |
-
+| `!menu` | Show this menu |
+| `!hello` | Say hello to me! |
+| `!favdriver <name>` | Set your favourite driver |
+| `!favteam <name>` | Set your favourite team |
+| `!whoami` | See your favourite driver |
+| `!standings` | Show Driver standings |
+| `!constructors` | Show Constructor standings |
+| `!prevgp` | Show previous Grand Prix results |
+| `!prevquali` | Show previous Qualifying results |
+| `!season` | Show the schedule for the next weekend |
+| `!settimezone` | Set your timezone |
+| `!mytimezone` | Show your timezone |
+| `!setreminderchannele` | (Admin) Set reminder channel |
 ---
 
 ## 🛠️ Tech Stack
